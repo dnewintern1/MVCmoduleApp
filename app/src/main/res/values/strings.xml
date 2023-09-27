@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidRoomMVVM</string>
+    <string name="insert_martial_art">Insert martial art to your list</string>
+    <string name="edt_hint">Please enter your favorite Martialart>></string>
+    <string name="btnText">Save Martial Art</string>
+
+
+</resources>

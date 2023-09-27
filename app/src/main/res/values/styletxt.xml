@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="martial_art_style">
+
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="android:layout_margin">8dp</item>
+
+        <item name="android:padding">8dp</item>
+
+        <item name="android:background">@color/txtcolo</item>
+
+        <item name="android:textAppearance">@android:style/TextAppearance.Large</item>
+
+    </style>
+</resources>
